@@ -1,6 +1,6 @@
 const findTheOldest = function(people) {
 
-    let oldest = people.reduce(theOldest,0)
+    let oldest = people.reduce()
     
     function theOldest(total,person){
         // complete this when you revusit

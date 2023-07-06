@@ -19,7 +19,7 @@ const fibonacci = function(n) {
 
 };
 
-console.log(fibonacci(-25))
+console.log(fibonacci(25))
 
 // Do not edit below this line
 module.exports = fibonacci;
